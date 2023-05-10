@@ -12,11 +12,7 @@ ${reset}
 body {
   font-size: 1rem;
   font-family: 'Noto Sans KR', 'Roboto', sans-serif;
-  background-image: url(${background});
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
+  background-color: black;
 }
 
 a {
