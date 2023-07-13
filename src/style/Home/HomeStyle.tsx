@@ -3,11 +3,13 @@ import styled from "styled-components";
 
 function HomeStyle() {
   return (
-    <SquareContainer>
-      <SmallSquare>1</SmallSquare>
-      <SmallSquare>2</SmallSquare>
-      <BigSquare>3</BigSquare>
-    </SquareContainer>
+    <>
+      <SquareContainer>
+        <SmallSquare>1</SmallSquare>
+        <SmallSquare>2</SmallSquare>
+        <BigSquare>3</BigSquare>
+      </SquareContainer>
+    </>
   );
 }
 

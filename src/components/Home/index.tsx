@@ -1,11 +1,11 @@
-import HomeHeader from "components/Header/HomeHeader";
+import Header from "components/Header";
 import React from "react";
 import HomeStyle from "style/Home/HomeStyle";
 
 function Home() {
   return (
     <>
-      <HomeHeader />
+      <Header />
       <HomeStyle />
     </>
   );
