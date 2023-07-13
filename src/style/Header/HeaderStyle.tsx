@@ -22,7 +22,7 @@ const HeaderContainer = styled.div`
   display: flex;
   align-items: center;
   margin: 0 auto;
-  background-color: #40444f;
+  background-color: #000000;
 `;
 
 const NavContainer = styled.nav`
