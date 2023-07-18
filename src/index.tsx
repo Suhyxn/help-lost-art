@@ -4,7 +4,6 @@ import App from "./App";
 import "./index.css";
 import { createGlobalStyle } from "styled-components";
 import reset from "styled-reset";
-import background from "./background.jpeg";
 import { RecoilRoot } from "recoil";
 
 const GlobalStyle = createGlobalStyle`
