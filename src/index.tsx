@@ -12,7 +12,7 @@ ${reset}
 body {
   font-size: 1rem;
   font-family: 'Noto Sans KR', 'Roboto', sans-serif;
-  background-color: black;
+  background-color: #000000;
 }
 
 a {
