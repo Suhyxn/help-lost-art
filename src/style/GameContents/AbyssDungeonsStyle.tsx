@@ -48,15 +48,25 @@ type AbyssDungeonsRewardItem = {
   StartTime: null;
 };
 
-const Container = styled.div``;
+const Container = styled.div`
+  min-width: 1280px;
+  max-width: 1920px;
+  margin: 0px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+`;
 
 const AbyssNameContainer = styled.div`
   display: flex;
+  width: 1460px;
   justify-content: space-around;
+  margin-top: 4%;
 `;
 
 const AbyssName = styled.div`
   color: #ffffff;
+  font-size: 20px;
 `;
 
 const ImageContainer = styled.div`
@@ -69,8 +79,7 @@ const ImageSquare = styled.div<{ Image: string }>`
   height: 260px;
   background-color: #40444f;
   float: left;
-  margin-left: 90px;
-  margin-bottom: 50px;
+  margin: 0 30px 50px;
   background-image: url(${(props) => props.Image});
   background-repeat: no-repeat;
   background-size: cover;
