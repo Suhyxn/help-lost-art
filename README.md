@@ -1,46 +1,20 @@
-# Getting Started with Create React App
+# Help Lost Art
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🎞 프로젝트 소개
 
-## Available Scripts
+```
+스마일게이트 게임 로스트 아크 콘텐츠들을 친구들과 좀 더 편리하게 즐기기 위해 만든 프로젝트입니다.
 
-In the project directory, you can run:
+게임을 즐기면서 도전 어비스 던전, 도전 가디언 토벌 콘텐츠 같은 반복적인 콘텐츠 공략을 검색하는 것에 불편함을 느껴 좀 더 편리하게 활용하기 위해서 만들게 되었습니다.
 
-### `yarn start`
+공략들 이외에도 활용하거나 만들고 싶은 기능들을 개발 중에 있을 예정입니다.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+사용한 API는 모두 스마일게이트를 통해 제공받았습니다.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+https://developer-lostark.game.onstove.com/
 
-### `yarn test`
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🌐 배포 URL
 
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [HelpLostArt 바로가기](https://help-lost-art.netlify.app/challenge-abyss)
