@@ -269,7 +269,7 @@ const ContentBox = styled.div`
 `;
 
 const GateWayContent = styled.div`
-  width: 730px;
+  width: 580px;
   display: flex;
   justify-content: center;
   color: #ffffff;
